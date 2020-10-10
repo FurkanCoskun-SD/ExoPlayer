@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exo Player</string>
+    <string name="VideoQuality">Video Quality</string>
+    <string name="Low">Low</string>
+    <string name="Mid">Mid</string>
+    <string name="High">High</string>
+</resources>
